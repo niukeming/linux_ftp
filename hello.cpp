@@ -6,6 +6,5 @@ int main()
     int x=0;
     cin>>x;
     return 0;
-  //test
-  //
+
 }
